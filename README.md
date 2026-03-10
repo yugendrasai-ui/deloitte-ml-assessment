@@ -46,11 +46,12 @@ data.csv
 ## Example Output
 
 Input:
-Harry Potter and the Sorcerers Stone
+Dune
 
 Output:
-The Fellowship of the Ring
-The Hobbit
+* The Martian | Genre: Sci-Fi | Rating: 4.7
+* Hyperion | Genre: Sci-Fi | Rating: 4.6
+* Foundation | Genre: Sci-Fi | Rating: 4.5
 
 ## Notes
 
